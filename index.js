@@ -1,7 +1,1 @@
-//index.js
-
-function helloNpm() {
-    return "hello NPM"
-}
-
-module.exports = helloNpm
+//This package contains a folder with 3 svgs
